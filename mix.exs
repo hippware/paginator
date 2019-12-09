@@ -59,7 +59,8 @@ defmodule Paginator.Mixfile do
     [
       maintainers: ["Steve Domin"],
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/duffelhq/paginator"}
+      links: %{"GitHub" => "https://github.com/duffelhq/paginator"},
+      organization: "hippware"
     ]
   end
 end
